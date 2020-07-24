@@ -7,7 +7,7 @@ request.get(`http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=e2c8
     else{
         let weather = JSON.parse(body);
       let message = `It's ${Math.round(weather.main.temp-273.5)} degrees in ${weather.name}!`;
-      console.log( message);
+      console.log( '4',message);
   }
 
 })

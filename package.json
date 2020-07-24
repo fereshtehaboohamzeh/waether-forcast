@@ -1,0 +1,29 @@
+{
+  "name": "weather-forecast",
+  "version": "1.0.0",
+  "description": "forecast your local waether",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fereshtehaboohamzeh/waether-forcast.git"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "nodejs"
+  ],
+  "author": "fereshteh aboohamzeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fereshtehaboohamzeh/waether-forcast/issues"
+  },
+  "homepage": "https://github.com/fereshtehaboohamzeh/waether-forcast#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "yargs": "^15.4.1"
+  }
+}

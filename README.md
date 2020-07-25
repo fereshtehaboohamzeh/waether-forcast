@@ -1,5 +1,6 @@
-# waether-forcast
+# weather-forecast
 forecast your local weather
 # Installation
 
-clone the project and run npm install
+* clone the project 
+*run $ npm install

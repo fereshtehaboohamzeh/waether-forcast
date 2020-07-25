@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d4e46a-f229-4a57-afbf-5bf0acb37b31" name="Default Changelist" comment="" />
+    <list default="true" id="40d4e46a-f229-4a57-afbf-5bf0acb37b31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,6 +40,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,11 +70,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595611940242</updated>
-      <workItem from="1595611941571" duration="5277000" />
+      <workItem from="1595611941571" duration="7623000" />
+      <workItem from="1595666417636" duration="7172000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom" timestamp="1595621653612">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1595621653612" />
+    <state width="1897" height="272" key="GridCell.Tab.0.center" timestamp="1595621653612">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1595621653612" />
+    <state width="1897" height="272" key="GridCell.Tab.0.left" timestamp="1595621653611">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1595621653611" />
+    <state width="1897" height="272" key="GridCell.Tab.0.right" timestamp="1595621653612">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1595621653612" />
   </component>
 </project>

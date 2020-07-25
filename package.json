@@ -4,6 +4,7 @@
   "description": "forecast your local waether",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "test"
   },
   "repository": {
@@ -22,8 +23,13 @@
   },
   "homepage": "https://github.com/fereshtehaboohamzeh/waether-forcast#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
     "express": "^4.17.1",
     "request": "^2.88.2",
     "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }

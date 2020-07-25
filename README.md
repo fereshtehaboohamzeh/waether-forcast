@@ -4,5 +4,4 @@ forecast your local weather
 
 * clone the project 
 * npm install
-* run the project locally
-* npm start
+* run the project locally using $ npm start

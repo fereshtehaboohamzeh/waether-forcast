@@ -1,5 +1,5 @@
 # weather-forecast
-forecast your local weather
+Simple node js app to forecast your local weather based of the cites name,using Espxress along request.js to make http calls.
 # Installation
 
 * clone the project 
